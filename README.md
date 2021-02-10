@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some private proyects under bitbucket - blockhain stuff - high performance on finances - cibersecurity lab
+- 🌱 I’m currently learning Ethical Hacking & cibersecurity
+- 💬 Ask me about advertising world or backend & architecture programming
+
 <!--
 **zidk/zidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
