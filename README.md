@@ -6,8 +6,7 @@ Fourteen years of backend programming and software architecture experience under
 
 ### ⚡️ A quick introduction
 
-- 🌱 I’m currently learning about Go, Python & Django. 
-- 💼 I am open to working full-time for companies that follow best software development practices.
+- 🌱 I’m currently learning about Go & Python. 
 - 🤟🏻 I love learning new things until I achieve proficiency. Sometimes it's a sport (karate, climbing, dancing, powerlifting...), sometimes it's a hobby (miniature painting, Magic: The Gathering, riding on a circuit...), and at times, it's another IT path (cybersecurity, systems, DevOps...).
 - 😝 Fun-Fact:The cat in my profile picture actually exists and is named Python.
 
