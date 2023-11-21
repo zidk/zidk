@@ -14,7 +14,6 @@ Fourteen years of backend programming and software architecture experience under
 
 ### 🤝🏻 Connect, Follow, Subscribe
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-gonzalez/)
 [![codewars](https://img.shields.io/badge/Codewars-FF0000?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/zidk)
 [![hackthebox](https://img.shields.io/badge/HackTheBox-0FF000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/481623)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-FFA500?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14715348/zidk)
